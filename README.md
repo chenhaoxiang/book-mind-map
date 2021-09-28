@@ -9,3 +9,6 @@ https://blog.csdn.net/qq_26525215/article/details/120496072
 
 ## 第2章 探索分析问题的方法
 
+https://blog.csdn.net/qq_26525215/article/details/120517249  
+
+## 第3章 “二八法则”与其他
